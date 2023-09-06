@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\LyDangAnhDuy\Buoi4\Buoi4\bin\Debug\Buoi4.exe.config
+E:\LuuDuLieuSinhVien\LyDangAnhDuy\Buoi4\Buoi4\bin\Debug\Buoi4.exe
+E:\LuuDuLieuSinhVien\LyDangAnhDuy\Buoi4\Buoi4\bin\Debug\Buoi4.pdb
+E:\LuuDuLieuSinhVien\LyDangAnhDuy\Buoi4\Buoi4\obj\Debug\Buoi4.exe
+E:\LuuDuLieuSinhVien\LyDangAnhDuy\Buoi4\Buoi4\obj\Debug\Buoi4.pdb
